@@ -1,0 +1,484 @@
+{
+  "detector": "ngram",
+  "overall_accuracy": 0.62290979410761,
+  "total": 8791,
+  "correct": 5476,
+  "unknown_count": 583,
+  "skipped_unmapped": 76867,
+  "languages_evaluated": 55,
+  "elapsed_seconds": 1153.6481268405914,
+  "per_language": {
+    "rus": {
+      "total": 200,
+      "correct": 149,
+      "accuracy": 0.745,
+      "spirit_guess_code": "ru"
+    },
+    "fin": {
+      "total": 200,
+      "correct": 175,
+      "accuracy": 0.875,
+      "spirit_guess_code": "fi"
+    },
+    "swh": {
+      "total": 200,
+      "correct": 177,
+      "accuracy": 0.885,
+      "spirit_guess_code": "sw"
+    },
+    "mal": {
+      "total": 200,
+      "correct": 0,
+      "accuracy": 0.0,
+      "spirit_guess_code": "ml"
+    },
+    "uzb": {
+      "total": 200,
+      "correct": 1,
+      "accuracy": 0.005,
+      "spirit_guess_code": "uz"
+    },
+    "est": {
+      "total": 200,
+      "correct": 149,
+      "accuracy": 0.745,
+      "spirit_guess_code": "et"
+    },
+    "tur": {
+      "total": 200,
+      "correct": 167,
+      "accuracy": 0.835,
+      "spirit_guess_code": "tr"
+    },
+    "fra": {
+      "total": 200,
+      "correct": 172,
+      "accuracy": 0.86,
+      "spirit_guess_code": "fr"
+    },
+    "lvs": {
+      "total": 200,
+      "correct": 175,
+      "accuracy": 0.875,
+      "spirit_guess_code": "lv"
+    },
+    "ara": {
+      "total": 200,
+      "correct": 182,
+      "accuracy": 0.91,
+      "spirit_guess_code": "ar"
+    },
+    "ita": {
+      "total": 200,
+      "correct": 173,
+      "accuracy": 0.865,
+      "spirit_guess_code": "it"
+    },
+    "guj": {
+      "total": 200,
+      "correct": 0,
+      "accuracy": 0.0,
+      "spirit_guess_code": "gu"
+    },
+    "ary": {
+      "total": 200,
+      "correct": 152,
+      "accuracy": 0.76,
+      "spirit_guess_code": "ar"
+    },
+    "arz": {
+      "total": 200,
+      "correct": 176,
+      "accuracy": 0.88,
+      "spirit_guess_code": "ar"
+    },
+    "tgl": {
+      "total": 200,
+      "correct": 79,
+      "accuracy": 0.395,
+      "spirit_guess_code": "tl"
+    },
+    "ces": {
+      "total": 200,
+      "correct": 75,
+      "accuracy": 0.375,
+      "spirit_guess_code": "cs"
+    },
+    "heb": {
+      "total": 200,
+      "correct": 0,
+      "accuracy": 0.0,
+      "spirit_guess_code": "he"
+    },
+    "hbo": {
+      "total": 200,
+      "correct": 0,
+      "accuracy": 0.0,
+      "spirit_guess_code": "he"
+    },
+    "nld": {
+      "total": 200,
+      "correct": 166,
+      "accuracy": 0.83,
+      "spirit_guess_code": "nl"
+    },
+    "vie": {
+      "total": 200,
+      "correct": 179,
+      "accuracy": 0.895,
+      "spirit_guess_code": "vi"
+    },
+    "azj": {
+      "total": 200,
+      "correct": 190,
+      "accuracy": 0.95,
+      "spirit_guess_code": "az"
+    },
+    "ind": {
+      "total": 200,
+      "correct": 174,
+      "accuracy": 0.87,
+      "spirit_guess_code": "id"
+    },
+    "hau": {
+      "total": 200,
+      "correct": 171,
+      "accuracy": 0.855,
+      "spirit_guess_code": "ha"
+    },
+    "swa": {
+      "total": 200,
+      "correct": 157,
+      "accuracy": 0.785,
+      "spirit_guess_code": "sw"
+    },
+    "pan": {
+      "total": 200,
+      "correct": 0,
+      "accuracy": 0.0,
+      "spirit_guess_code": "pa"
+    },
+    "urd": {
+      "total": 200,
+      "correct": 160,
+      "accuracy": 0.8,
+      "spirit_guess_code": "ur"
+    },
+    "xho": {
+      "total": 200,
+      "correct": 137,
+      "accuracy": 0.685,
+      "spirit_guess_code": "xh"
+    },
+    "eng": {
+      "total": 200,
+      "correct": 151,
+      "accuracy": 0.755,
+      "spirit_guess_code": "en"
+    },
+    "hin": {
+      "total": 200,
+      "correct": 166,
+      "accuracy": 0.83,
+      "spirit_guess_code": "hi"
+    },
+    "tel": {
+      "total": 200,
+      "correct": 0,
+      "accuracy": 0.0,
+      "spirit_guess_code": "te"
+    },
+    "ars": {
+      "total": 200,
+      "correct": 186,
+      "accuracy": 0.93,
+      "spirit_guess_code": "ar"
+    },
+    "ben": {
+      "total": 200,
+      "correct": 0,
+      "accuracy": 0.0,
+      "spirit_guess_code": "bn"
+    },
+    "mar": {
+      "total": 200,
+      "correct": 0,
+      "accuracy": 0.0,
+      "spirit_guess_code": "mr"
+    },
+    "deu": {
+      "total": 200,
+      "correct": 168,
+      "accuracy": 0.84,
+      "spirit_guess_code": "de"
+    },
+    "spa": {
+      "total": 200,
+      "correct": 168,
+      "accuracy": 0.84,
+      "spirit_guess_code": "es"
+    },
+    "arb": {
+      "total": 200,
+      "correct": 191,
+      "accuracy": 0.955,
+      "spirit_guess_code": "ar"
+    },
+    "por": {
+      "total": 200,
+      "correct": 147,
+      "accuracy": 0.735,
+      "spirit_guess_code": "pt"
+    },
+    "lav": {
+      "total": 200,
+      "correct": 171,
+      "accuracy": 0.855,
+      "spirit_guess_code": "lv"
+    },
+    "sot": {
+      "total": 200,
+      "correct": 189,
+      "accuracy": 0.945,
+      "spirit_guess_code": "st"
+    },
+    "tha": {
+      "total": 200,
+      "correct": 0,
+      "accuracy": 0.0,
+      "spirit_guess_code": "th"
+    },
+    "fas": {
+      "total": 200,
+      "correct": 185,
+      "accuracy": 0.925,
+      "spirit_guess_code": "fa"
+    },
+    "bul": {
+      "total": 109,
+      "correct": 85,
+      "accuracy": 0.7798165137614679,
+      "spirit_guess_code": "bg"
+    },
+    "nso": {
+      "total": 99,
+      "correct": 67,
+      "accuracy": 0.6767676767676768,
+      "spirit_guess_code": "nso"
+    },
+    "cat": {
+      "total": 93,
+      "correct": 81,
+      "accuracy": 0.8709677419354839,
+      "spirit_guess_code": "ca"
+    },
+    "afr": {
+      "total": 88,
+      "correct": 58,
+      "accuracy": 0.6590909090909091,
+      "spirit_guess_code": "af"
+    },
+    "fil": {
+      "total": 58,
+      "correct": 25,
+      "accuracy": 0.43103448275862066,
+      "spirit_guess_code": "tl"
+    },
+    "lat": {
+      "total": 50,
+      "correct": 37,
+      "accuracy": 0.74,
+      "spirit_guess_code": "la"
+    },
+    "aze": {
+      "total": 29,
+      "correct": 25,
+      "accuracy": 0.8620689655172413,
+      "spirit_guess_code": "az"
+    },
+    "apd": {
+      "total": 27,
+      "correct": 24,
+      "accuracy": 0.8888888888888888,
+      "spirit_guess_code": "ar"
+    },
+    "aeb": {
+      "total": 15,
+      "correct": 13,
+      "accuracy": 0.8666666666666667,
+      "spirit_guess_code": "ar"
+    },
+    "uzs": {
+      "total": 9,
+      "correct": 0,
+      "accuracy": 0.0,
+      "spirit_guess_code": "uz"
+    },
+    "ell": {
+      "total": 7,
+      "correct": 0,
+      "accuracy": 0.0,
+      "spirit_guess_code": "el"
+    },
+    "zul": {
+      "total": 4,
+      "correct": 1,
+      "accuracy": 0.25,
+      "spirit_guess_code": "zu"
+    },
+    "ukr": {
+      "total": 2,
+      "correct": 1,
+      "accuracy": 0.5,
+      "spirit_guess_code": "uk"
+    },
+    "pol": {
+      "total": 1,
+      "correct": 1,
+      "accuracy": 1.0,
+      "spirit_guess_code": "pl"
+    }
+  },
+  "sample_errors": [
+    {
+      "text": "Български (Bəlgarski) Deutsch English suomi français magyar 日本語 (Nihongo) Nederlands polski slovensky svenska Türkçe українська (ukrajins'ka) 中文 (Zhongwen,简) 中文 (Zhongwen,繁)",
+      "gold": "rus",
+      "gold_639_1": "ru",
+      "pred": "sk",
+      "score": 42315
+    },
+    {
+      "text": "1950 ജൂലൈ 29 ന് 69 ാം വയസ്സിൽ ശുഭാനന്ദ ഗുരുദേവൻ സമാധിയായി. ഭൗതികശരീരം മാവേലിക്കര കൊട്ടാർക്കാവ് ആശ്രമത്തിൽ സംസ്കരിച്ചു.",
+      "gold": "mal",
+      "gold_639_1": "ml",
+      "pred": "az",
+      "score": 33900
+    },
+    {
+      "text": "Митко Динев: \"Ода за гъза!\"",
+      "gold": "bul",
+      "gold_639_1": "bg",
+      "pred": "mk",
+      "score": 6187
+    },
+    {
+      "text": "Butun jahon bo’ylab hukumatlar shamol va quyosh energiyasi kabi tiklanuvchi energiya manbalari, shuningdek tabiiy gazdan keng foydalanishni rag’batlantira boshlashlari kutilmoqda, chunki tabiiy gazdan",
+      "gold": "uzb",
+      "gold_639_1": "uz",
+      "pred": "ha",
+      "score": 59655
+    },
+    {
+      "text": "Xuddi yuqoridagi kodimizdagidek, biz ro'yhat ham yaratishimiz mumkin, shunchaki biz $sql o'zgaruvchimizdagi so'rovni CREATE TABLE so'roviga almashtirishimiz kifoya.",
+      "gold": "uzb",
+      "gold_639_1": "uz",
+      "pred": "ha",
+      "score": 33969
+    },
+    {
+      "text": "Snap પર, ગોપનીયતા અમારા DNA માં વહે છે. પહેલા દિવસથી જ Snapchat ની નિર્ધારિત વિશેષતાઓમાંની એક ખાનગી સંચાર અને વાતચીત દ્વારા લોકોને તેમની મિત્રતા મજબૂત કરવામાં મદદ કરવા પર અમારું ધ્યાન કેન્દ્રિત કરવામા",
+      "gold": "guj",
+      "gold_639_1": "gu",
+      "pred": "en",
+      "score": 52898
+    },
+    {
+      "text": "اللوݣو ديال طيل كيل",
+      "gold": "ary",
+      "gold_639_1": "ar",
+      "pred": "un",
+      "score": 0.0
+    },
+    {
+      "text": "V poslední době dochází na českém trhu k nové vlně silného tlaku na provozovatele restaurací a hospod ze strany silných zahraničních pivovarnických skupin. Velké pivovary se opět snaží poskytovat hosp",
+      "gold": "ces",
+      "gold_639_1": "cs",
+      "pred": "sk",
+      "score": 64411
+    },
+    {
+      "text": "ടെനിസന്റെ ദേശഭക്തിപരമായ കവിതകൾ വിശേഷിച്ചും 'ദ് ചാർജ് ഒഫ് ദ് ലൈറ്റ് ബ്രിഗെയ്ഡ്' (1854), 'ദ് ചാർജ് ഒഫ് ദ് ഹെവി ബ്രിഗെയ്ഡ്' (1882) എന്നിവ ധീര കൃത്യങ്ങളെ രാഷ്ട്രം എങ്ങനെ ആദരിക്കുന്നു എന്നു ചൂണ്ടിക്കാട്ടുന",
+      "gold": "mal",
+      "gold_639_1": "ml",
+      "pred": "az",
+      "score": 90000
+    },
+    {
+      "text": "<< · ביאור · שמות יב · פסוקים: א ב ג ד ה ו ז ח ט י יא יב יג יד טו טז יז יח יט כ כא כב כג כד כה כו כז כח כט ל לא לב לג לד לה לו לז לח לט מ מא מב מג מד מה מו מז מח מט נ נא · >>",
+      "gold": "heb",
+      "gold_639_1": "he",
+      "pred": "az",
+      "score": 49800
+    },
+    {
+      "text": "Lohikang pormal ang pag-aaral ng imperensya na may purong pormal na nilalaman, na kung saan malinaw na binabanggit ang mga nilalaman.",
+      "gold": "tgl",
+      "gold_639_1": "tl",
+      "pred": "ceb",
+      "score": 16898
+    },
+    {
+      "text": "יד וְנִקְשַׁת בְסִכְתָא וַאֲמַרַת לֵיהּ פְּלִשְׁתָּאֵי אֲתוֹ עֲלָךְ שִׁמְשׁוֹן וְאִתְעַר מִשִׁנְתֵיהּ וּנְטַל יַת אַכְסַן דְגַרְדָאִין וְיַת מַשְׁתֵּיתָא:",
+      "gold": "hbo",
+      "gold_639_1": "he",
+      "pred": "az",
+      "score": 41700
+    },
+    {
+      "text": "דרישות התפקיד:ניסיון של 3 שנים ומעלה בבדיקות תוכנה - חובה.",
+      "gold": "heb",
+      "gold_639_1": "he",
+      "pred": "az",
+      "score": 16500
+    },
+    {
+      "text": "Chili piyozini ikkiga bo'lmasdan va urug'larni olib tashlamasdan quritib qo'ysam nima bo'ladi?",
+      "gold": "uzb",
+      "gold_639_1": "uz",
+      "pred": "hr",
+      "score": 19837
+    },
+    {
+      "text": "Externe link[bewerken | brontekst bewerken]",
+      "gold": "nld",
+      "gold_639_1": "nl",
+      "pred": "af",
+      "score": 8320
+    },
+    {
+      "text": "בפסח תשס”ב (2002), עם ראשיתו של מבצע “חומת מגן”, שנועד למגר את הטרור שהיכה בישראל בימי האינתיפאדה השנייה, נכנסו כוחות מילואים וסדיר רבים למחנה הפליטים בג’נין, והחלו לטהרו ממחבלים. המחבלים מלכדו אזורים",
+      "gold": "heb",
+      "gold_639_1": "he",
+      "pred": "az",
+      "score": 90000
+    },
+    {
+      "text": "Mintaqangizning moda tumaniga tashrif buyuring. Agar siz shaxsan ulgurji kiyim-kechak do'konini sotib olishni afzal ko'rsangiz, sizning mintaqangizda moda tumani bor yoki yo'qligini tekshiring. Ular k",
+      "gold": "uzb",
+      "gold_639_1": "uz",
+      "pred": "ha",
+      "score": 77647
+    },
+    {
+      "text": "രണ്ടാം റൗണ്ടിലേക്ക് ആസ്ട്രിയ, ചെക്കോസ്ലാവാക്യ, ജെർമനി, ഹംഗറി, ഇറ്റലി, സ്പെയിൻ, സ്വീഡൻ, സിറ്റ്സർലാന്റ് എന്നീ എട്ട് രാജ്യങ്ങളായിരുന്നു യോഗ്യത നേടിയത്. എല്ലാ മത്സരങ്ങളും നോക്കൗട്ട് മത്സരങ്ങളായിരുന്നു. കോ",
+      "gold": "mal",
+      "gold_639_1": "ml",
+      "pred": "az",
+      "score": 90000
+    },
+    {
+      "text": "De uitsluiting van aansprakelijkheid strekt mede ten gunste van bestuurders en medewerkers van Stater.",
+      "gold": "nld",
+      "gold_639_1": "nl",
+      "pred": "af",
+      "score": 15522
+    },
+    {
+      "text": "Janairu 22, 2022 a 00:16",
+      "gold": "hau",
+      "gold_639_1": "ha",
+      "pred": "haw",
+      "score": 6021
+    }
+  ]
+}
