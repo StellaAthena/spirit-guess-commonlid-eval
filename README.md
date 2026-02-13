@@ -1,6 +1,6 @@
 # spirit-guess evaluation on CommonLID
 
-Evaluation of the [spirit-guess](https://github.com/AidanSun05/spirit-guess) language identification library against the [CommonLID](https://huggingface.co/datasets/commoncrawl/CommonLID) benchmark dataset.
+Evaluation of the [spirit-guess](https://github.com/alvations/spirit-guess) language identification library against the [CommonLID](https://huggingface.co/datasets/commoncrawl/CommonLID) benchmark dataset.
 
 ## Setup
 
