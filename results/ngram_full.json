@@ -1,0 +1,484 @@
+{
+  "detector": "ngram",
+  "overall_accuracy": 0.6603388412183707,
+  "total": 296363,
+  "correct": 195700,
+  "unknown_count": 16734,
+  "skipped_unmapped": 76867,
+  "languages_evaluated": 55,
+  "elapsed_seconds": 17972.009281873703,
+  "per_language": {
+    "uzb": {
+      "total": 43189,
+      "correct": 148,
+      "accuracy": 0.0034267984903563406,
+      "spirit_guess_code": "uz"
+    },
+    "ind": {
+      "total": 33828,
+      "correct": 30137,
+      "accuracy": 0.8908892042095305,
+      "spirit_guess_code": "id"
+    },
+    "eng": {
+      "total": 27461,
+      "correct": 20874,
+      "accuracy": 0.7601325516186592,
+      "spirit_guess_code": "en"
+    },
+    "arb": {
+      "total": 26152,
+      "correct": 24640,
+      "accuracy": 0.9421841541755889,
+      "spirit_guess_code": "ar"
+    },
+    "vie": {
+      "total": 21803,
+      "correct": 19918,
+      "accuracy": 0.9135440077053616,
+      "spirit_guess_code": "vi"
+    },
+    "fas": {
+      "total": 19318,
+      "correct": 18246,
+      "accuracy": 0.9445077130137696,
+      "spirit_guess_code": "fa"
+    },
+    "hau": {
+      "total": 16455,
+      "correct": 14390,
+      "accuracy": 0.8745062291096931,
+      "spirit_guess_code": "ha"
+    },
+    "ara": {
+      "total": 16306,
+      "correct": 14818,
+      "accuracy": 0.908745247148289,
+      "spirit_guess_code": "ar"
+    },
+    "swh": {
+      "total": 12383,
+      "correct": 11095,
+      "accuracy": 0.8959864330130017,
+      "spirit_guess_code": "sw"
+    },
+    "tel": {
+      "total": 11747,
+      "correct": 0,
+      "accuracy": 0.0,
+      "spirit_guess_code": "te"
+    },
+    "deu": {
+      "total": 7553,
+      "correct": 6423,
+      "accuracy": 0.8503905732821395,
+      "spirit_guess_code": "de"
+    },
+    "heb": {
+      "total": 5055,
+      "correct": 0,
+      "accuracy": 0.0,
+      "spirit_guess_code": "he"
+    },
+    "tur": {
+      "total": 4486,
+      "correct": 3845,
+      "accuracy": 0.8571110120374499,
+      "spirit_guess_code": "tr"
+    },
+    "ita": {
+      "total": 4387,
+      "correct": 3735,
+      "accuracy": 0.8513790745384089,
+      "spirit_guess_code": "it"
+    },
+    "spa": {
+      "total": 4236,
+      "correct": 3384,
+      "accuracy": 0.7988668555240793,
+      "spirit_guess_code": "es"
+    },
+    "swa": {
+      "total": 4031,
+      "correct": 3213,
+      "accuracy": 0.7970726866782436,
+      "spirit_guess_code": "sw"
+    },
+    "rus": {
+      "total": 4003,
+      "correct": 2966,
+      "accuracy": 0.7409442917811642,
+      "spirit_guess_code": "ru"
+    },
+    "hin": {
+      "total": 3666,
+      "correct": 3165,
+      "accuracy": 0.8633387888707038,
+      "spirit_guess_code": "hi"
+    },
+    "nld": {
+      "total": 3299,
+      "correct": 2705,
+      "accuracy": 0.8199454380115186,
+      "spirit_guess_code": "nl"
+    },
+    "fra": {
+      "total": 3233,
+      "correct": 2775,
+      "accuracy": 0.8583359109186514,
+      "spirit_guess_code": "fr"
+    },
+    "tha": {
+      "total": 3118,
+      "correct": 0,
+      "accuracy": 0.0,
+      "spirit_guess_code": "th"
+    },
+    "por": {
+      "total": 2443,
+      "correct": 1932,
+      "accuracy": 0.7908309455587392,
+      "spirit_guess_code": "pt"
+    },
+    "tgl": {
+      "total": 2223,
+      "correct": 867,
+      "accuracy": 0.3900134952766532,
+      "spirit_guess_code": "tl"
+    },
+    "mal": {
+      "total": 2061,
+      "correct": 0,
+      "accuracy": 0.0,
+      "spirit_guess_code": "ml"
+    },
+    "ben": {
+      "total": 1886,
+      "correct": 0,
+      "accuracy": 0.0,
+      "spirit_guess_code": "bn"
+    },
+    "arz": {
+      "total": 1102,
+      "correct": 976,
+      "accuracy": 0.8856624319419237,
+      "spirit_guess_code": "ar"
+    },
+    "mar": {
+      "total": 1061,
+      "correct": 0,
+      "accuracy": 0.0,
+      "spirit_guess_code": "mr"
+    },
+    "fin": {
+      "total": 1030,
+      "correct": 887,
+      "accuracy": 0.8611650485436894,
+      "spirit_guess_code": "fi"
+    },
+    "pan": {
+      "total": 1020,
+      "correct": 0,
+      "accuracy": 0.0,
+      "spirit_guess_code": "pa"
+    },
+    "guj": {
+      "total": 948,
+      "correct": 0,
+      "accuracy": 0.0,
+      "spirit_guess_code": "gu"
+    },
+    "sot": {
+      "total": 943,
+      "correct": 891,
+      "accuracy": 0.9448568398727466,
+      "spirit_guess_code": "st"
+    },
+    "ces": {
+      "total": 933,
+      "correct": 353,
+      "accuracy": 0.3783494105037513,
+      "spirit_guess_code": "cs"
+    },
+    "azj": {
+      "total": 847,
+      "correct": 754,
+      "accuracy": 0.8902007083825265,
+      "spirit_guess_code": "az"
+    },
+    "hbo": {
+      "total": 808,
+      "correct": 0,
+      "accuracy": 0.0,
+      "spirit_guess_code": "he"
+    },
+    "est": {
+      "total": 659,
+      "correct": 484,
+      "accuracy": 0.7344461305007587,
+      "spirit_guess_code": "et"
+    },
+    "xho": {
+      "total": 575,
+      "correct": 363,
+      "accuracy": 0.6313043478260869,
+      "spirit_guess_code": "xh"
+    },
+    "lav": {
+      "total": 512,
+      "correct": 448,
+      "accuracy": 0.875,
+      "spirit_guess_code": "lv"
+    },
+    "lvs": {
+      "total": 353,
+      "correct": 300,
+      "accuracy": 0.8498583569405099,
+      "spirit_guess_code": "lv"
+    },
+    "ars": {
+      "total": 229,
+      "correct": 212,
+      "accuracy": 0.925764192139738,
+      "spirit_guess_code": "ar"
+    },
+    "ary": {
+      "total": 226,
+      "correct": 174,
+      "accuracy": 0.7699115044247787,
+      "spirit_guess_code": "ar"
+    },
+    "urd": {
+      "total": 204,
+      "correct": 164,
+      "accuracy": 0.803921568627451,
+      "spirit_guess_code": "ur"
+    },
+    "bul": {
+      "total": 109,
+      "correct": 85,
+      "accuracy": 0.7798165137614679,
+      "spirit_guess_code": "bg"
+    },
+    "nso": {
+      "total": 99,
+      "correct": 67,
+      "accuracy": 0.6767676767676768,
+      "spirit_guess_code": "nso"
+    },
+    "cat": {
+      "total": 93,
+      "correct": 81,
+      "accuracy": 0.8709677419354839,
+      "spirit_guess_code": "ca"
+    },
+    "afr": {
+      "total": 88,
+      "correct": 58,
+      "accuracy": 0.6590909090909091,
+      "spirit_guess_code": "af"
+    },
+    "fil": {
+      "total": 58,
+      "correct": 25,
+      "accuracy": 0.43103448275862066,
+      "spirit_guess_code": "tl"
+    },
+    "lat": {
+      "total": 50,
+      "correct": 37,
+      "accuracy": 0.74,
+      "spirit_guess_code": "la"
+    },
+    "aze": {
+      "total": 29,
+      "correct": 25,
+      "accuracy": 0.8620689655172413,
+      "spirit_guess_code": "az"
+    },
+    "apd": {
+      "total": 27,
+      "correct": 24,
+      "accuracy": 0.8888888888888888,
+      "spirit_guess_code": "ar"
+    },
+    "aeb": {
+      "total": 15,
+      "correct": 13,
+      "accuracy": 0.8666666666666667,
+      "spirit_guess_code": "ar"
+    },
+    "uzs": {
+      "total": 9,
+      "correct": 0,
+      "accuracy": 0.0,
+      "spirit_guess_code": "uz"
+    },
+    "ell": {
+      "total": 7,
+      "correct": 0,
+      "accuracy": 0.0,
+      "spirit_guess_code": "el"
+    },
+    "zul": {
+      "total": 4,
+      "correct": 1,
+      "accuracy": 0.25,
+      "spirit_guess_code": "zu"
+    },
+    "ukr": {
+      "total": 2,
+      "correct": 1,
+      "accuracy": 0.5,
+      "spirit_guess_code": "uk"
+    },
+    "pol": {
+      "total": 1,
+      "correct": 1,
+      "accuracy": 1.0,
+      "spirit_guess_code": "pl"
+    }
+  },
+  "sample_errors": [
+    {
+      "text": "Hammayoqni karam sho'rva",
+      "gold": "uzb",
+      "gold_639_1": "uz",
+      "pred": "ha",
+      "score": 5000
+    },
+    {
+      "text": "2 Axmedov D.K.,Ishmuxamedov A.E., Jumaev K.,Djumaev Z.A. «Makroiktisodiyot» T.: O`zbekiston YOzuvchilar uyushmasi Adabiyot jamgarmasi nashriyoti 2004, 145-156 b.b.",
+      "gold": "uzb",
+      "gold_639_1": "uz",
+      "pred": "lt",
+      "score": 40465
+    },
+    {
+      "text": "O‘zga davlatda himoya qilish uchun taqdim etilgan hujjatlarni uch kun ichida ko‘rib chiqadi, ushbu tartibning 3-bandidagi talablar bajarilganligi yuzasidan xulosa beradi va ishni Monitoring bo‘limiga ",
+      "gold": "uzb",
+      "gold_639_1": "uz",
+      "pred": "id",
+      "score": 47258
+    },
+    {
+      "text": "జూన్ 21: జపాన్లోని క్యోటోలో హోన్నే-జి సంఘటన జరిగింది.",
+      "gold": "tel",
+      "gold_639_1": "te",
+      "pred": "la",
+      "score": 15300
+    },
+    {
+      "text": "“ఏమిటే ఇది, అన్యాయంగా ఉందే? తిరనాల సమయంలో విపరీత జన సమూహం రోడ్డుమీద నడుస్తూ ఉంటారే, పొలీసు కాపలా చాలా ఉంటుందే? అక్కడా ఈ దోపిడి జరిగింది?”",
+      "gold": "tel",
+      "gold_639_1": "te",
+      "pred": "la",
+      "score": 37800
+    },
+    {
+      "text": "Farrel Ramadhani Irawan - Agen Properti | 99.co",
+      "gold": "ind",
+      "gold_639_1": "id",
+      "pred": "ha",
+      "score": 11630
+    },
+    {
+      "text": "Fadada dangin Surface",
+      "gold": "hau",
+      "gold_639_1": "ha",
+      "pred": "id",
+      "score": 3520
+    },
+    {
+      "text": "Turkmanistonda aprel oyi soʻnggida Axalteke zotli tulporlar orasida \"goʻzallik tanlovi\"ni oʻtkazish anʼanaga aylangan. Musobaqada gʻolib boʻlgan ot egasiga... 02.04.2016, Sputnik Oʻzbekiston",
+      "gold": "uzb",
+      "gold_639_1": "uz",
+      "pred": "sl",
+      "score": 46995
+    },
+    {
+      "text": "Adliya vazirligi «Yer uchastkalarini kompensatsiya evaziga jamoat ehtiyojlari uchun olib qo‘yish tartib-taomillari to‘g‘risida\"gi qonun loyihasini muhokama uchun taqdim etdi.",
+      "gold": "uzb",
+      "gold_639_1": "uz",
+      "pred": "et",
+      "score": 37470
+    },
+    {
+      "text": "Jizzax viloyati Mirzacho‘l tumanidagi fermerlarga qarashli yerlarda bir qarich bo‘lib o‘sib qolgan piyoz, kungaboqar va boshqa ekinlar tuproq tagida qoldi. Hokim buyrug‘i bilan paxta maydonlarini keng",
+      "gold": "uzb",
+      "gold_639_1": "uz",
+      "pred": "az",
+      "score": 74656
+    },
+    {
+      "text": "Dalvlarga qaysi burj vakillari mos keladi?",
+      "gold": "uzb",
+      "gold_639_1": "uz",
+      "pred": "id",
+      "score": 9340
+    },
+    {
+      "text": "JAMB CBT formasi narxi - JAMB formasi 2021 qancha turadi? JAMBning istiqbolli nomzodlari va keng jamoatchilik ko'pincha JAMB CBT shaklini tekshirish uchun muvaffaqiyatli ro'yxatdan o'tish uchun narxin",
+      "gold": "uzb",
+      "gold_639_1": "uz",
+      "pred": "az",
+      "score": 66183
+    },
+    {
+      "text": "ฟีเจอร์รับผู้โดยสารหญิงเป็นหลัก (Women Passenger Preferred BETA) คืออะไร",
+      "gold": "tha",
+      "gold_639_1": "th",
+      "pred": "nb",
+      "score": 18988
+    },
+    {
+      "text": "\"Amerika Ovozi\" yaqinda Kanadaning Toronto shahriga safari chog'ida taniqli jurnalist, \"Dunyo o'zbeklari\" sayti bosh muharriri Ismat Xushev bilan muloqotda bo'ldi. U o'z kechinmalari, O'zbekistonga 20",
+      "gold": "uzb",
+      "gold_639_1": "uz",
+      "pred": "ceb",
+      "score": 63166
+    },
+    {
+      "text": "ఈ కథలో జానకి తన స్నేహితురాలు, తన భర్తను ఎవరో ఇంకొక అమ్మాయితో చూశానని చెప్పటంతో, అంతవరకు తన భర్త మీద ఎవరు ఎన్ని రకాలుగా చెప్పినా నమ్మని జానకి, స్నేహితురాలు చెప్పిన విషయాన్ని గుడ్డిగా నమ్మి భర్తను అనుమా",
+      "gold": "tel",
+      "gold_639_1": "te",
+      "pred": "la",
+      "score": 54900
+    },
+    {
+      "text": "Konsultasi dokter",
+      "gold": "ind",
+      "gold_639_1": "id",
+      "pred": "un",
+      "score": 0.0
+    },
+    {
+      "text": "پنجشنبه، آبان ۱۶، ۱۳۹۲",
+      "gold": "fas",
+      "gold_639_1": "fa",
+      "pred": "ps",
+      "score": 5568
+    },
+    {
+      "text": "Damperlar[tahrir | manbasini tahrirlash]",
+      "gold": "uzb",
+      "gold_639_1": "uz",
+      "pred": "az",
+      "score": 7600
+    },
+    {
+      "text": "\"కడతాను సార్! \"దృడంగా చెప్పింది.",
+      "gold": "tel",
+      "gold_639_1": "te",
+      "pred": "la",
+      "score": 9000
+    },
+    {
+      "text": "Barcha ma'lumotlarni ko'rish.",
+      "gold": "uzb",
+      "gold_639_1": "uz",
+      "pred": "sw",
+      "score": 6172
+    }
+  ]
+}
